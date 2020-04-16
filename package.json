@@ -1,0 +1,20 @@
+{
+  "name": "map-error-yup",
+  "version": "0.0.1",
+  "description": "mapping error yup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mapping",
+    "map",
+    "error",
+    "yup",
+    "javascript",
+    "uno-api",
+    "express"
+  ],
+  "author": "Chornos13",
+  "license": "ISC"
+}
